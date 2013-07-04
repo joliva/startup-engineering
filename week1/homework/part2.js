@@ -9,12 +9,12 @@ var test_prime = function(n) {
 		var quotient = n/primes[i];
 		if (Math.floor(quotient) == quotient) {
 			// prime[i] divides evenly into n - not prime
-			return false
+			return false;
 		}
 	}
 
 	return true;
-}
+};
 
 var NUM_PRIMES = 100;
 

@@ -1,0 +1,13 @@
+{
+  "name": "grader",
+  "version": "0.0.1",
+  "dependencies": {
+    "restler": "2.0.x",
+    "commander": "1.3.x",
+    "cheerio": "0.12.x"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}

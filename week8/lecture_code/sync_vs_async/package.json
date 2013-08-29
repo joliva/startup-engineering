@@ -1,0 +1,16 @@
+{
+  "name": "sync_vs_async",
+  "version": "0.0.0",
+  "description": "",
+  "main": "synchronous-ex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "async": "~0.2.9",
+    "underscore": "~1.5.1",
+    "sleep": "~1.1.1"
+  }
+}
